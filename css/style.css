@@ -2,8 +2,12 @@ body {
     min-height: 100vh;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
+    color: white;
     background-image: url("../assets/frieren3.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+header{
+    margin: 2rem;
 }
