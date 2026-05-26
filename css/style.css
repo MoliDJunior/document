@@ -1,7 +1,9 @@
-body{
-  font-family: 'Times New Roman', Times, serif;
-  background-image: url("../assets/fondo.jpeg");
-  background-size: 100rem;
-  background-position: center;
-  background-repeat: no-repeat;
+body {
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../assets/frieren3.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
